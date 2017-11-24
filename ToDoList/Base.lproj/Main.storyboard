@@ -108,7 +108,7 @@
                                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                                     <textInputTraits key="textInputTraits"/>
                                                     <connections>
-                                                        <action selector="returnPressed:" destination="WaH-Yx-ugd" eventType="primaryActionTriggered" id="c8C-lp-mCI"/>
+                                                        <action selector="returnPressed:" destination="WaH-Yx-ugd" eventType="primaryActionTriggered" id="3nT-Gd-Qgt"/>
                                                         <action selector="textEditingChanged:" destination="WaH-Yx-ugd" eventType="editingChanged" id="sJj-tx-IcD"/>
                                                     </connections>
                                                 </textField>
